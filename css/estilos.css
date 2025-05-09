@@ -1,0 +1,94 @@
+body{
+   background-color: aquamarine;
+}
+
+.container-fluid{
+   background-color: darkgoldenrod;
+   
+}
+
+div.carousel-item {
+    max-height: 400px;
+    overflow: hidden;
+    height: 400px; /* Altura fija para el carrusel */
+ }
+ 
+ div.carousel-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+ }
+ 
+ .carousel-inner {
+    height: 400px; /* Asegura que el contenedor interno también tiene altura fija */
+ }
+
+i.bi-airplane{
+   color:blue
+}
+
+i.bi-suitcase{
+   color:black
+}
+i.bi-car-front{
+   color:red
+}
+
+I.bi-train-front{
+   color:green
+}
+.card-title{
+   color:blue;
+}
+
+.card-text{
+   background-color:olive
+}
+.accordion-item{
+   color:red;
+   background-color: blue;
+}
+.accordion-button{
+   background-color: cadetblue;
+}
+
+h3{
+   color:darkgreen;
+   text-align: center;
+   margin: 50px;
+   
+   
+}
+
+h4{
+   color:rgb(30, 30, 219);
+   text-align: center;
+   margin: 50px;
+}
+
+h5{
+   color:darkorange;
+   text-align:center ;
+   margin:50px ;
+}
+h6{
+   color:palevioletred;
+   text-align: center;
+   margin: 50px;
+
+}
+i.bi-facebook{
+   color:blue;
+}
+i.bi-whatsapp{
+   color:green;
+}
+i.bi-instagram{
+   color:palevioletred;
+}
+i.bi-telephone{
+   color:blue;
+}
+
+
